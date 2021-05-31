@@ -1,0 +1,14 @@
+#container {
+ 	background: linear-gradient(to bottom, #ffffff 10%, #336699 100%);
+ 	padding: 10px;
+	border-radius: 30px;
+	width: 1000px;
+	line-height: 30px;
+	margin: auto;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
